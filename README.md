@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Idris Datti Shanono 
+- 👋 Hi, I’m Idris Datti Shanono 
 - 👀 I’m a student of BSV/Dominium Academy..
 - 🌱 I’m currently learning .. BLOCKCHAIN TECHNOLOGY
 - 💞️ I’m looking to collaborate on ...
